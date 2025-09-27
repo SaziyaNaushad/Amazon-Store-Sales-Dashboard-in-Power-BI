@@ -4,3 +4,6 @@ A Power BI dashboard visualizing Amazon store sales data to track performance, a
 
 Tools: Power BI, DAX, Data Visualization
 Key Features: Sales overview, product & category analysis, customer insights, revenue trends
+
+
+"The Power BI dashboard and dataset are available in this repo.Certificate of completion can be found in the Amazon_sales_dashboard_certificate.Screenshots of the dashbooard are in the Dashboard_view."
